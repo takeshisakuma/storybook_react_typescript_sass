@@ -8,6 +8,7 @@ https://アカウント名.github.io/リポジトリ名/
 ## リモートリポジトリ登録
 
 GitHub でリポジトリを作成して下記のコマンドで登録します。
+公開目的なので、Public で作成します。
 
 ```
 git remote add origin https://github.com/アカウント名/リポジトリ名.git
@@ -31,3 +32,7 @@ npm run deploy
 
 下記 URL で Storybook が表示されるか確認します。
 https://アカウント名.github.io/リポジトリ名/
+
+## 詳細
+
+https://qiita.com/takeshisakuma/items/f4d54472b31ab098e147
